@@ -33,8 +33,8 @@ function my_keydown(e) {
 	if (keyPressed == '82') // añade los códigos de las teclas
 	{
 		// sube al ranger rojo
-		block_x = 100;
-		new_image("rr1.png");
+		block_x = 50;
+		new_image("rr1.jpg");
 		console.log("r");
 	}
 	if (keyPressed == '71') {
